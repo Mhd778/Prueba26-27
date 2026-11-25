@@ -1,0 +1,27 @@
+{
+  "name": "prueba26-27",
+  "version": "1.0.0",
+  "description": "Repositorio de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhd778/Prueba26-27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhd778/Prueba26-27/issues"
+  },
+  "homepage": "https://github.com/Mhd778/Prueba26-27#readme",
+  "devDependencies": {
+    "@eslint/css": "^2.0.1",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
